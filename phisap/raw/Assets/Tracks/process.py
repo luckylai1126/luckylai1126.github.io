@@ -22,7 +22,7 @@ def process_song(path):
         "hdRanking":"unranked",
         "inRanking":"unranked",
         "atRanking":"unranked",
-        "illustration":"illustration.png",
+        "illustration":"Illustration.png",
         "chartDesigner":"phigros official",
         "illustrator":"phigros official",
         "sliceAudioStart":0
