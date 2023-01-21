@@ -122,7 +122,7 @@ window.onload = function() {
                 setTimeout(wait, 100)
             } else {
                 gameInit()
-                setCanvasFullscreen(true)
+                setCanvasFullscreen(false)
             }
         }
         wait()
